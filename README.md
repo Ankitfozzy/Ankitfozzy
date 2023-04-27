@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://Ankitfozzy.github.io/](https://ankitfozzy.github.io/)
+- 👨‍💻 All of my projects are available at [https://ankitfozzy.github.io/](https://ankitfozzy.github.io/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/ankitsinghsisodia/**
 
