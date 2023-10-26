@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh Sisodia</h1>
-<h3 align="center">I am an aspiring and diligent Java Developer. Determined problem solver, with 2100+ hours of hands-on coding experience and solved 1000+ DSA problems.</h3>
+<h3 align="center">I am an aspiring and diligent Java Developer. Determined problem solver, with 1800+ hours of hands-on coding experience and solved 1000+ DSA problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitfozzy&label=Profile%20views&color=0e75b6&style=flat" alt="ankitfozzy" /> </p>
 
