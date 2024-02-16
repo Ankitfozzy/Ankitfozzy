@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as a Backend Developer
 
-- 👨‍💻 All of my projects are available at [https://ankitfozzy.github.io/](https://ankitfozzy.github.io/)
+- 👨‍💻 All my projects are available at [https://ankitfozzy.github.io/](https://ankitfozzy.github.io/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/ankitsinghsisodia/**
 
